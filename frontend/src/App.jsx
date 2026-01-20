@@ -20,10 +20,13 @@ function App() {
         </div>
       </div>
     </header>
-    <div className="topImageDetails border h-80 w-[95%] mx-auto mt-20 bg-[url('./assets/evolve-banner-2-min.png')] bg-cover bg-center rounded-md">
-     <p className="details mx-auto mt-60 text-center ">
+    <div className="topImageDetails  h-100 w-[95%] mx-auto mt-20  rounded-md grid">
+     <div className=" bg-amber-300 w-[100%] h-[170%] bg-[url('./assets/evolve-banner-2-min.png')] bg-cover bg-center rounded-md">
+      <p className="details mx-auto mt-40 text-center  ">
       dadkjlakjldjla;dkljflakjldkjaj;ajdflkja
      </p>
+     </div>
+     <div className="  h-10 w-[90%] mx-auto mt-40"> <center><h1>🕎🕎🕎🕎</h1></center></div>
     </div>
      </body>
     </>
