@@ -1,6 +1,7 @@
 import './App.css'
 import { createIcons, Menu } from 'lucide';
 createIcons({ icons: { Menu,},});
+import ims from './assets/benin.png'
 function App() {
  
   return(
@@ -19,6 +20,11 @@ function App() {
         </div>
       </div>
     </header>
+    <div className="topImageDetails border h-80 w-[95%] mx-auto mt-20 bg-[url('./assets/evolve-banner-2-min.png')] bg-cover bg-center rounded-md">
+     <p className="details mx-auto mt-60 text-center ">
+      dadkjlakjldjla;dkljflakjldkjaj;ajdflkja
+     </p>
+    </div>
      </body>
     </>
   )
